@@ -1,4 +1,4 @@
-import { useOrderDetails } from "../../contexts/orderDetails";
+import { useOrderDetails } from "../../contexts/OrderDetails";
 import Options from "./Options";
 
 export default function OrderEntry() {

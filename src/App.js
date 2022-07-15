@@ -1,5 +1,5 @@
 import Container from "react-bootstrap/esm/Container";
-import { OrderDetailsProvider } from "./contexts/orderDetails";
+import { OrderDetailsProvider } from "./contexts/OrderDetails";
 import OrderEntry from "./pages/entry/OrderEntry";
 
 function App() {
